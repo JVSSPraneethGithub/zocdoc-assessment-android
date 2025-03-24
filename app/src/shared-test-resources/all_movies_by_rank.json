@@ -1,0 +1,492 @@
+[
+  {
+    "Rank": 1,
+    "Id": 577,
+    "Name": "HOOP DREAMS (1994)"
+  },
+  {
+    "Rank": 2,
+    "Id": 339,
+    "Name": "Sunset Blvd."
+  },
+  {
+    "Rank": 3,
+    "Id": 220,
+    "Name": "American History X"
+  },
+  {
+    "Rank": 4,
+    "Id": 59,
+    "Name": "The Lord of the Rings: The Return of the King"
+  },
+  {
+    "Rank": 5,
+    "Id": 297,
+    "Name": "The Pianist"
+  },
+  {
+    "Rank": 6,
+    "Id": 465,
+    "Name": "CITIZENFOUR (2014)"
+  },
+  {
+    "Rank": 7,
+    "Id": 682,
+    "Name": "BOWLING FOR COLUMBINE (2002)"
+  },
+  {
+    "Rank": 8,
+    "Id": 283,
+    "Name": "Terminator 2: Judgment Day"
+  },
+  {
+    "Rank": 9,
+    "Id": 94,
+    "Name": "Inception"
+  },
+  {
+    "Rank": 10,
+    "Id": 3,
+    "Name": "The Shawshank Redemption"
+  },
+  {
+    "Rank": 11,
+    "Id": 549,
+    "Name": "THE MISSING PICTURE (2014)"
+  },
+  {
+    "Rank": 12,
+    "Id": 101,
+    "Name": "One Flew Over the Cuckoo's Nest"
+  },
+  {
+    "Rank": 13,
+    "Id": 199,
+    "Name": "Interstellar"
+  },
+  {
+    "Rank": 14,
+    "Id": 241,
+    "Name": "City Lights"
+  },
+  {
+    "Rank": 15,
+    "Id": 311,
+    "Name": "The Departed"
+  },
+  {
+    "Rank": 16,
+    "Id": 437,
+    "Name": "LIFE ITSELF (2014)"
+  },
+  {
+    "Rank": 17,
+    "Id": 598,
+    "Name": "HOW TO SURVIVE A PLAGUE (2012)"
+  },
+  {
+    "Rank": 18,
+    "Id": 654,
+    "Name": "WE WERE HERE (2011)"
+  },
+  {
+    "Rank": 19,
+    "Id": 87,
+    "Name": "Forrest Gump"
+  },
+  {
+    "Rank": 20,
+    "Id": 500,
+    "Name": "INSIDE JOB (2010)"
+  },
+  {
+    "Rank": 21,
+    "Id": 206,
+    "Name": "Casablanca"
+  },
+  {
+    "Rank": 22,
+    "Id": 388,
+    "Name": "The Great Dictator"
+  },
+  {
+    "Rank": 23,
+    "Id": 227,
+    "Name": "Spirited Away"
+  },
+  {
+    "Rank": 24,
+    "Id": 185,
+    "Name": "Léon: The Professional"
+  },
+  {
+    "Rank": 25,
+    "Id": 52,
+    "Name": "The Good, the Bad and the Ugly"
+  },
+  {
+    "Rank": 26,
+    "Id": 668,
+    "Name": "RIVERS AND TIDES: ANDY GOLDSWORTHY WORKING WITH TIME (2002)"
+  },
+  {
+    "Rank": 27,
+    "Id": 213,
+    "Name": "Saving Private Ryan"
+  },
+  {
+    "Rank": 28,
+    "Id": 451,
+    "Name": "AMY (2015)"
+  },
+  {
+    "Rank": 29,
+    "Id": 346,
+    "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+  },
+  {
+    "Rank": 30,
+    "Id": 122,
+    "Name": "The Matrix"
+  },
+  {
+    "Rank": 31,
+    "Id": 374,
+    "Name": "The Lion King"
+  },
+  {
+    "Rank": 32,
+    "Id": 640,
+    "Name": "EVERYDAY SUNSHINE: THE STORY OF FISHBONE (2011)"
+  },
+  {
+    "Rank": 33,
+    "Id": 647,
+    "Name": "NOSTALGIA FOR THE LIGHT (2011)"
+  },
+  {
+    "Rank": 34,
+    "Id": 584,
+    "Name": "WALTZ WITH BASHIR (2008)"
+  },
+  {
+    "Rank": 35,
+    "Id": 115,
+    "Name": "Goodfellas"
+  },
+  {
+    "Rank": 36,
+    "Id": 367,
+    "Name": "Alien"
+  },
+  {
+    "Rank": 37,
+    "Id": 556,
+    "Name": "SEYMOUR: AN INTRODUCTION (2015)"
+  },
+  {
+    "Rank": 38,
+    "Id": 493,
+    "Name": "ANVIL! THE STORY OF ANVIL (2009)"
+  },
+  {
+    "Rank": 39,
+    "Id": 255,
+    "Name": "Rear Window"
+  },
+  {
+    "Rank": 40,
+    "Id": 45,
+    "Name": "Schindler's List"
+  },
+  {
+    "Rank": 41,
+    "Id": 80,
+    "Name": "Star Wars: Episode V - The Empire Strikes Back"
+  },
+  {
+    "Rank": 42,
+    "Id": 381,
+    "Name": "The Lives of Others"
+  },
+  {
+    "Rank": 43,
+    "Id": 171,
+    "Name": "It's a Wonderful Life"
+  },
+  {
+    "Rank": 44,
+    "Id": 318,
+    "Name": "Gladiator"
+  },
+  {
+    "Rank": 45,
+    "Id": 178,
+    "Name": "Life Is Beautiful"
+  },
+  {
+    "Rank": 46,
+    "Id": 444,
+    "Name": "20 FEET FROM STARDOM (2013)"
+  },
+  {
+    "Rank": 47,
+    "Id": 66,
+    "Name": "Fight Club"
+  },
+  {
+    "Rank": 48,
+    "Id": 619,
+    "Name": "LAST TRAIN HOME (2010)"
+  },
+  {
+    "Rank": 49,
+    "Id": 507,
+    "Name": "JODOROWSKY'S DUNE (2014)"
+  },
+  {
+    "Rank": 50,
+    "Id": 423,
+    "Name": "The Dark Knight Rises"
+  },
+  {
+    "Rank": 51,
+    "Id": 290,
+    "Name": "The Green Mile"
+  },
+  {
+    "Rank": 52,
+    "Id": 542,
+    "Name": "PROJECT NIM (2011)"
+  },
+  {
+    "Rank": 53,
+    "Id": 528,
+    "Name": "THE FOG OF WAR: ELEVEN LESSONS FROM THE LIFE OF ROBERT S. MCNAMARA (2003)"
+  },
+  {
+    "Rank": 54,
+    "Id": 276,
+    "Name": "Whiplash"
+  },
+  {
+    "Rank": 55,
+    "Id": 234,
+    "Name": "Raiders of the Lost Ark"
+  },
+  {
+    "Rank": 56,
+    "Id": 486,
+    "Name": "DELIVER US FROM EVIL (2006)"
+  },
+  {
+    "Rank": 57,
+    "Id": 332,
+    "Name": "Back to the Future"
+  },
+  {
+    "Rank": 58,
+    "Id": 626,
+    "Name": "THIS IS NOT A FILM (2012)"
+  },
+  {
+    "Rank": 59,
+    "Id": 150,
+    "Name": "Se7en"
+  },
+  {
+    "Rank": 60,
+    "Id": 325,
+    "Name": "Apocalypse Now"
+  },
+  {
+    "Rank": 61,
+    "Id": 31,
+    "Name": "Pulp Fiction"
+  },
+  {
+    "Rank": 62,
+    "Id": 129,
+    "Name": "Star Wars: Episode IV - A New Hope"
+  },
+  {
+    "Rank": 63,
+    "Id": 108,
+    "Name": "The Lord of the Rings: The Two Towers"
+  },
+  {
+    "Rank": 64,
+    "Id": 633,
+    "Name": "BUS 174 (ÔNIBUS 174) (2003)"
+  },
+  {
+    "Rank": 65,
+    "Id": 521,
+    "Name": "THE SQUARE (2013)"
+  },
+  {
+    "Rank": 66,
+    "Id": 570,
+    "Name": "AFGHAN STAR (2009)"
+  },
+  {
+    "Rank": 67,
+    "Id": 409,
+    "Name": "Django Unchained"
+  },
+  {
+    "Rank": 68,
+    "Id": 535,
+    "Name": "SPELLBOUND (2002)"
+  },
+  {
+    "Rank": 69,
+    "Id": 416,
+    "Name": "Paths of Glory"
+  },
+  {
+    "Rank": 70,
+    "Id": 136,
+    "Name": "Seven Samurai"
+  },
+  {
+    "Rank": 71,
+    "Id": 605,
+    "Name": "CAPTURING THE FRIEDMANS (2003)"
+  },
+  {
+    "Rank": 72,
+    "Id": 353,
+    "Name": "Inside Out"
+  },
+  {
+    "Rank": 73,
+    "Id": 262,
+    "Name": "The Intouchables"
+  },
+  {
+    "Rank": 74,
+    "Id": 304,
+    "Name": "Memento"
+  },
+  {
+    "Rank": 75,
+    "Id": 17,
+    "Name": "The Godfather: Part II"
+  },
+  {
+    "Rank": 76,
+    "Id": 479,
+    "Name": "BLACKFISH (2013)"
+  },
+  {
+    "Rank": 77,
+    "Id": 612,
+    "Name": "SOUND CITY (2013)"
+  },
+  {
+    "Rank": 78,
+    "Id": 24,
+    "Name": "The Dark Knight"
+  },
+  {
+    "Rank": 79,
+    "Id": 164,
+    "Name": "The Usual Suspects"
+  },
+  {
+    "Rank": 80,
+    "Id": 38,
+    "Name": "12 Angry Men"
+  },
+  {
+    "Rank": 81,
+    "Id": 73,
+    "Name": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "Rank": 82,
+    "Id": 472,
+    "Name": "MURDERBALL (2005)"
+  },
+  {
+    "Rank": 83,
+    "Id": 591,
+    "Name": "THE INTERRUPTERS (2011)"
+  },
+  {
+    "Rank": 84,
+    "Id": 514,
+    "Name": "JIRO DREAMS OF SUSHI (2012)"
+  },
+  {
+    "Rank": 85,
+    "Id": 458,
+    "Name": "TAXI TO THE DARK SIDE (2007)"
+  },
+  {
+    "Rank": 86,
+    "Id": 563,
+    "Name": "SEYMOUR: AN INTRODUCTION (2015)"
+  },
+  {
+    "Rank": 87,
+    "Id": 395,
+    "Name": "Cinema Paradiso"
+  },
+  {
+    "Rank": 88,
+    "Id": 248,
+    "Name": "Psycho"
+  },
+  {
+    "Rank": 89,
+    "Id": 430,
+    "Name": "MAN ON WIRE (2008)"
+  },
+  {
+    "Rank": 90,
+    "Id": 402,
+    "Name": "The Shining"
+  },
+  {
+    "Rank": 91,
+    "Id": 143,
+    "Name": "City of God"
+  },
+  {
+    "Rank": 92,
+    "Id": 10,
+    "Name": "The Godfather"
+  },
+  {
+    "Rank": 93,
+    "Id": 157,
+    "Name": "The Silence of the Lambs"
+  },
+  {
+    "Rank": 94,
+    "Id": 661,
+    "Name": "ENRON: THE SMARTEST GUYS IN THE ROOM (2005)"
+  },
+  {
+    "Rank": 95,
+    "Id": 360,
+    "Name": "The Prestige"
+  },
+  {
+    "Rank": 96,
+    "Id": 192,
+    "Name": "Once Upon a Time in the West"
+  },
+  {
+    "Rank": 97,
+    "Id": 269,
+    "Name": "Modern Times"
+  },
+  {
+    "Rank": 98,
+    "Id": 675,
+    "Name": "BILL CUNNINGHAM NEW YORK (2011)"
+  }
+]

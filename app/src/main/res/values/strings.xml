@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ZocdocAssessment</string>
+    <string name="retry">Retry</string>
+    <string name="movies_list_title">Movies List by Rank</string>
+    <string name="movie_details_title">Movie Details</string>
+    <string name="movie_details_navigate_up">Back</string>
+    <string name="no_movies_found">Unable to fetch Movies by rank.</string>
+    <string name="movies_list_paging_error">Could not retrieve more movies. Please scroll-again.</string>
+    <string name="movies_list_end_reached">All available movies listed by Rank.</string>
+    <string name="no_movie_details_found">Failed to fetch the details for the selected Movie.</string>
+    <string name="movie_rank">Movie Rank : %s</string>
+    <string name="movie_poster_image">Movie Poster for title : %s</string>
+    <string name="movie_details_duration">Duration : </string>
+    <string name="movie_details_genres">Genres : </string>
+    <string name="movie_details_director">Director : </string>
+    <string name="movie_details_cast">Cast : </string>
+    <string name="movie_details_plot">Plot : </string>
+    <string name="movie_details_button_text">Visit Showtimes</string>
+</resources>
